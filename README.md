@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **brucosta2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/bruno-costa-8a0b9220b/</h3>
 <p align="left">
 </p>
 
