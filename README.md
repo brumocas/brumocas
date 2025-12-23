@@ -40,15 +40,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brumocas&show_icons=true&theme=algolia" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brumocas&layout=compact&theme=algolia" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brumocas&theme=algolia"/>
-</p>
-
 
